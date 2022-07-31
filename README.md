@@ -1,16 +1,33 @@
-# 🚧 README em construção 🚧
+# One For All
 
-<!-- Olá, Tryber!
+## Contexto
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Este projeto trata-se de uma ????????
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Técnologias usadas
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+Back-end:
+> Desenvolvido usando: Docker Compose
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+## Instalando Dependências
 
--->
+* clone o projeto:
+
+  ```bash
+  git clone git@github.com:Andreyrvs/mysql-all-for-one.git
+  ```
+
+> Backend
+
+  ```bash
+    cd mysql-all-for-one
+    npm install
+  ```
+
+## Executando aplicação
+
+* Para rodar o back-end:
+
+  ```bash
+    npm start
+  ```
