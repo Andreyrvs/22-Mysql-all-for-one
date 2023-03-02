@@ -9,7 +9,7 @@ Este projeto trata-se de uma série de desafios com diferentes níveis de comple
 ## Técnologias usadas
 
 Back-end:
-> Desenvolvido usando: Docker Compose
+> Desenvolvido usando: MySQL, Docker Compose
 
 ## Habilidades
 
