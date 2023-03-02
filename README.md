@@ -31,18 +31,19 @@ Adquiri essas habilidades ao desenvolver esse projeto:
   docker-compose up -d
   #  acesso ao terminal interativo do container criado pelo compose.
   docker exec -it all_for_one bash
-  npm install
+  npm ci
   ```
 
 ## Executando aplicação
 
-É necessário ter [Mysql Workbench](https://www.mysql.com/products/workbench/) Para rodar a as Queryes.
+É necessário ter [Mysql Workbench](https://www.mysql.com/products/workbench/) ou similar para rodar a as Queryes.
 
-| 1. Crie uma nova coneção | 2. Utilize as credenciais |
+| 1. Crie uma nova coneção | 2. Utilize as credenciaise a senha: `password` |
 | ----------- | ----------- |
-| ![New Connection](./aplicacao-01.png) | ![Setup Connection](./aplicacao-02.png) |
-| 3. Utilize a senha: `password`  | 4. abra o aquivo [`northwind.sql`](northwind.sql) e copie `CTRL+A`e `CTRL+C`. Vá no **workbench** abra uma nova janela de query e cole o conteudo, depois clique no ícone de raio para executar a query|
-| ![Conect To Mysql Server](./aplicacao-03.png) | ![Home](./aplicacao-04.png) |
+| ![Create Connection](./aplicacao-01.png) | ![Setup Credentials](./aplicacao-02.png) |
+| 3.  Importe o arquivo [`northwind.sql`](northwind.sql)  | 4. Execute a Query clicando no **Raio** :zap: |
+|  ![Import the database archive](./aplicacao-03.png) | ![Execute Query](./aplicacao-04.png) |
+| 5. Clique no botão :arrows_counterclockwise: apontado na imagem a seguir para atualizar a listagem de banco de dados. | 6. O banco de dados deverá ter essas tabelas populadas |
+  | ![Update database listing](./aplicacao-05.png) | ![Database SpotifyClone](./aplicacao-06.png) |
 
-Tudo Setup pronto :happy:
-Cada desafio é uma query Sql. é possovivel importar cada uma ou copiar o código dentro do arquivo e colar na janela de query do **workbench**
+### Para executar os desafios faça os **passos 3 e 4** para cada arquivo ex: `desafioN.sql`
