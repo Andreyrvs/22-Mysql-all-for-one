@@ -15,6 +15,10 @@ Back-end:
 
 Adquiri essas habilidades ao desenvolver esse projeto:
 
+- As queries que eu desenvolvi devem retornar exatamente a quantidade de colunas e registros esperados, dentro do que foi pedido;
+
+- Organização do meu código. Deixar sempre as palavras-chave em CAIXA ALTA e os nomes de tabelas e colunas em caixa baixa;
+
 ## Instalando Dependências
 
 - clone o projeto:
