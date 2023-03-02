@@ -41,7 +41,7 @@ Adquiri essas habilidades ao desenvolver esse projeto:
 | 1. Crie uma nova coneção | 2. Utilize as credenciais |
 | ----------- | ----------- |
 | ![New Connection](./aplicacao-01.png) | ![Setup Connection](./aplicacao-02.png) |
-| 3. Utilize a senha: `password`  | 4. abra o aquivo `northwind.sql` e copie `CTRL+A`e `CTRL+C`. Vá no **workbench** abra uma nova janela de query e cole o conteudo, depois clique no ícone de raio para executar a query|
+| 3. Utilize a senha: `password`  | 4. abra o aquivo [`northwind.sql`](northwind.sql) e copie `CTRL+A`e `CTRL+C`. Vá no **workbench** abra uma nova janela de query e cole o conteudo, depois clique no ícone de raio para executar a query|
 | ![Conect To Mysql Server](./aplicacao-03.png) | ![Home](./aplicacao-04.png) |
 
 Tudo Setup pronto :happy:
